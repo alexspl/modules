@@ -1,0 +1,7 @@
+name = Testing Module
+description = This module will be used for testing purposes
+package = Alex
+version = VERSION
+core = 7.x
+
+files[] = testmodule.module
